@@ -8,11 +8,13 @@ namespace P13___II___2___Family
 {
     public class Family
     {
-        public List<Person> families=new List<Person>();
+       public List<Person> families=new List<Person>();
 
-       public void AddMember(Person member)
+              List<int> number =new List<int>();
+
+       public void AddMember(Person chovek)
         {
-            families.Add(member);
+            families.Add(chovek);
         }
 
 

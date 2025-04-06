@@ -3,17 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01 - Demo", "P01 - Demo\P01 - Demo.csproj", "{C1C45551-3635-4C55-9220-A4167E09C552}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01 - Demo", "P01 - Demo\P01 - Demo.csproj", "{C1C45551-3635-4C55-9220-A4167E09C552}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - Demo2", "P02 - Demo2\P02 - Demo2.csproj", "{7E49301D-21CE-4B59-B79F-AC190E2E8EE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02 - Demo2", "P02 - Demo2\P02 - Demo2.csproj", "{7E49301D-21CE-4B59-B79F-AC190E2E8EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 - Demo", "P03 - Demo\P03 - Demo.csproj", "{41CAF348-0EE7-44FD-9A3C-8C4604D597D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03 - Demo", "P03 - Demo\P03 - Demo.csproj", "{41CAF348-0EE7-44FD-9A3C-8C4604D597D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10 - II - 02 - BankAccount", "P10 - II - 02 - BankAccount\P10 - II - 02 - BankAccount.csproj", "{C5A1A83C-8E36-484A-A86A-01EFC906716B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10 - II - 02 - BankAccount", "P10 - II - 02 - BankAccount\P10 - II - 02 - BankAccount.csproj", "{C5A1A83C-8E36-484A-A86A-01EFC906716B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - II - 3 - BankAccountMethods", "P11 - II - 3 - BankAccountMethods\P11 - II - 3 - BankAccountMethods.csproj", "{F1B8E1BB-ECB9-4367-8AE2-F18F535022E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11 - II - 3 - BankAccountMethods", "P11 - II - 3 - BankAccountMethods\P11 - II - 3 - BankAccountMethods.csproj", "{F1B8E1BB-ECB9-4367-8AE2-F18F535022E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13 - II - 2 - Family", "P13 - II - 2 - Family\P13 - II - 2 - Family.csproj", "{367EED41-A1FB-4270-9F69-BB911737B817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13 - II - 2 - Family", "P13 - II - 2 - Family\P13 - II - 2 - Family.csproj", "{367EED41-A1FB-4270-9F69-BB911737B817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04 - Demo", "P04 - Demo\P04 - Demo.csproj", "{49C6DA1E-D305-461A-81F2-8EC1F3D157C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{08A4404D-9A57-40E2-9D35-0943274B241D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05 - DemoConstruktors", "P05 - DemoConstruktors\P05 - DemoConstruktors.csproj", "{9F147C63-3D08-420A-AFBC-FD63A6794565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06 - DemoConstructors", "P06 - DemoConstructors\P06 - DemoConstructors.csproj", "{446D31C5-AB65-4620-8D29-5F4966B7FD36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14 - IV - 3 - PersonMoney", "P14 - IV - 3 - PersonMoney\P14 - IV - 3 - PersonMoney.csproj", "{04E46CAB-0893-4EBE-A87A-413D56DA0C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15 - IV - 4 - OldestFamily", "P15 - IV - 4 - OldestFamily\P15 - IV - 4 - OldestFamily.csproj", "{04943D6D-2582-4804-9E86-7C00A7E4B24F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +57,30 @@ Global
 		{367EED41-A1FB-4270-9F69-BB911737B817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{367EED41-A1FB-4270-9F69-BB911737B817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{367EED41-A1FB-4270-9F69-BB911737B817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C6DA1E-D305-461A-81F2-8EC1F3D157C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C6DA1E-D305-461A-81F2-8EC1F3D157C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C6DA1E-D305-461A-81F2-8EC1F3D157C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C6DA1E-D305-461A-81F2-8EC1F3D157C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A4404D-9A57-40E2-9D35-0943274B241D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A4404D-9A57-40E2-9D35-0943274B241D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A4404D-9A57-40E2-9D35-0943274B241D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A4404D-9A57-40E2-9D35-0943274B241D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F147C63-3D08-420A-AFBC-FD63A6794565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F147C63-3D08-420A-AFBC-FD63A6794565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F147C63-3D08-420A-AFBC-FD63A6794565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F147C63-3D08-420A-AFBC-FD63A6794565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446D31C5-AB65-4620-8D29-5F4966B7FD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446D31C5-AB65-4620-8D29-5F4966B7FD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446D31C5-AB65-4620-8D29-5F4966B7FD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446D31C5-AB65-4620-8D29-5F4966B7FD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E46CAB-0893-4EBE-A87A-413D56DA0C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E46CAB-0893-4EBE-A87A-413D56DA0C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E46CAB-0893-4EBE-A87A-413D56DA0C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E46CAB-0893-4EBE-A87A-413D56DA0C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04943D6D-2582-4804-9E86-7C00A7E4B24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04943D6D-2582-4804-9E86-7C00A7E4B24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04943D6D-2582-4804-9E86-7C00A7E4B24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04943D6D-2582-4804-9E86-7C00A7E4B24F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
