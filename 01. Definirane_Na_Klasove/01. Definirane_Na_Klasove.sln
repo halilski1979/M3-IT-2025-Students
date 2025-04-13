@@ -27,13 +27,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14 - IV - 3 - PersonMoney"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15 - IV - 4 - OldestFamily", "P15 - IV - 4 - OldestFamily\P15 - IV - 4 - OldestFamily.csproj", "{04943D6D-2582-4804-9E86-7C00A7E4B24F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16 - I - 4 - TestovKlient", "P16 - I - 4 - TestovKlient\P16 - I - 4 - TestovKlient.csproj", "{9AC26A68-C6AD-472A-BBA1-86BD75E47A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P16 - I - 4 - TestovKlient", "P16 - I - 4 - TestovKlient\P16 - I - 4 - TestovKlient.csproj", "{9AC26A68-C6AD-472A-BBA1-86BD75E47A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17 - III - w7 - 1 -SortName", "P17 - III - w7 - 1 -SortName\P17 - III - w7 - 1 -SortName.csproj", "{BCA7BE26-7A55-4590-8005-0819971E0FA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P17 - III - w7 - 1 -SortName", "P17 - III - w7 - 1 -SortName\P17 - III - w7 - 1 -SortName.csproj", "{BCA7BE26-7A55-4590-8005-0819971E0FA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P18 - III - w7 - BOX", "P18 - III - w7 - BOX\P18 - III - w7 - BOX.csproj", "{1F221D66-5910-4764-B138-E443CB004611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P18 - III - w7 - BOX", "P18 - III - w7 - BOX\P18 - III - w7 - BOX.csproj", "{1F221D66-5910-4764-B138-E443CB004611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P19 - III - w8 - 1 - IncreaseSalary", "P19 - III - w8 - 1 - IncreaseSalary\P19 - III - w8 - 1 - IncreaseSalary.csproj", "{34BC2E9B-20D8-48E3-8469-686F26B85955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P19 - III - w8 - 1 - IncreaseSalary", "P19 - III - w8 - 1 - IncreaseSalary\P19 - III - w8 - 1 - IncreaseSalary.csproj", "{34BC2E9B-20D8-48E3-8469-686F26B85955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P20 - III - w9 - PersonValidation", "P20 - III - w9 - PersonValidation\P20 - III - w9 - PersonValidation.csproj", "{A9F34A1A-84FA-4457-BAF8-9A463DEB0DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21 - III - w9 - BoxValidation", "P21 - III - w9 - BoxValidation\P21 - III - w9 - BoxValidation.csproj", "{A6674D70-2D12-43D5-A3C5-9E6F13418D7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{34BC2E9B-20D8-48E3-8469-686F26B85955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34BC2E9B-20D8-48E3-8469-686F26B85955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34BC2E9B-20D8-48E3-8469-686F26B85955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F34A1A-84FA-4457-BAF8-9A463DEB0DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F34A1A-84FA-4457-BAF8-9A463DEB0DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F34A1A-84FA-4457-BAF8-9A463DEB0DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F34A1A-84FA-4457-BAF8-9A463DEB0DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6674D70-2D12-43D5-A3C5-9E6F13418D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6674D70-2D12-43D5-A3C5-9E6F13418D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6674D70-2D12-43D5-A3C5-9E6F13418D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6674D70-2D12-43D5-A3C5-9E6F13418D7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
